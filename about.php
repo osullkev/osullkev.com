@@ -17,7 +17,8 @@
 		<br />
 		<br />
 		<?php if(!empty($_POST['name']))
-		echo "Hey there {$_POST['name']}, don't you know that <b>those who SEND NUDES GET NUDES</b>"
+		echo "Hey there {$_POST['name']}, keep in mind that those who <b>SEND NUDES GET NUDES</b>";
+		echo "But don't worry, plenty of nudes will be made available soon. Check in regulary :)";
 		?>
 
 		<br />
