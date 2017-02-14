@@ -15,13 +15,10 @@
 		</form>
 
 		<br />
-		<br />
 		<?php if(!empty($_POST['name']))
-		echo "Hey there {$_POST['name']}, keep in mind that those who <b>SEND NUDES GET NUDES</b>";
+		echo "Hey there {$_POST['name']}, keep in mind that those who <b>SEND NUDES GET NUDES</b><br />";
 		echo "But don't worry, plenty of nudes will be made available soon. Check in regulary :)";
 		?>
-
-		<br />
 		<br />
 		<p>For further enquiries, please see this <a href="contact.php">page</a></p>
 	</body>
